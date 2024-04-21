@@ -7,8 +7,8 @@ driver.implicitly_wait(5)
 driver.maximize_window()
 driver.get('https://practice.automationtesting.in/')
 
-email = 'MarcusFenix@gears.com'
-password = 'M@rFen1x&01'
+email = ''
+password = ''
 
 driver.find_element(By.CSS_SELECTOR, '#main-nav>li:nth-child(2)>a').click()
 
@@ -36,8 +36,8 @@ driver.implicitly_wait(5)
 driver.maximize_window()
 driver.get('https://practice.automationtesting.in/')
 
-email = 'MarcusFenix@gears.com'
-password = 'M@rFen1x&01'
+email = ''
+password = ''
 
 driver.find_element(By.CSS_SELECTOR, '#main-nav>li:nth-child(2)>a').click()
 
@@ -65,8 +65,8 @@ driver.implicitly_wait(5)
 driver.maximize_window()
 driver.get('https://practice.automationtesting.in/')
 
-email = 'MarcusFenix@gears.com'
-password = 'M@rFen1x&01'
+email = ''
+password = ''
 
 driver.find_element(By.CSS_SELECTOR, '#main-nav>li:nth-child(2)>a').click()
 
@@ -98,8 +98,8 @@ driver.implicitly_wait(5)
 driver.maximize_window()
 driver.get('https://practice.automationtesting.in/')
 
-email = 'MarcusFenix@gears.com'
-password = 'M@rFen1x&01'
+email = ''
+password = ''
 
 driver.find_element(By.CSS_SELECTOR, '#main-nav>li:nth-child(2)>a').click()
 
@@ -132,8 +132,8 @@ driver.implicitly_wait(10)
 driver.maximize_window()
 driver.get('https://practice.automationtesting.in/')
 
-email = 'MarcusFenix@gears.com'
-password = 'M@rFen1x&01'
+email = ''
+password = ''
 
 # My Account
 driver.find_element(By.CSS_SELECTOR, '#main-nav>li:nth-child(2)>a').click()
